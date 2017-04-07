@@ -1,0 +1,7 @@
+﻿//********************************************************************//
+//   Type js code here that you want to inject in browser console.    //
+//********************************************************************//
+
+alert("alert boi, yolo n shit");
+
+alert("js injected and that");
